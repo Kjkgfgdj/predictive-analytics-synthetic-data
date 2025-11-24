@@ -136,5 +136,3 @@ Built with the Python data/ML stack: `pandas`, `NumPy`, `scikit-learn`, `matplot
 ```
 
 ---
-
-If you want me to tighten any bullets for impact (e.g., add metrics or scale), or generate the starter Python scripts for the synthetic‑data project to exactly match the README, say the word and I’ll drop them in.
