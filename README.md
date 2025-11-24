@@ -135,16 +135,6 @@ Built with the Python data/ML stack: `pandas`, `NumPy`, `scikit-learn`, `matplot
 
 ```
 
-> If you’d like, I can also provide minimal starter code for `generate_data.py` and `train.py` to match the README.
-
----
-
-## 4) Your three GitHub links (for convenience)
-
-- PSU Campus Map: <https://github.com/Kjkgfgdj/psu-campus>  
-- Arabic–French Embeddings: <https://github.com/Kjkgfgdj/ar-fr-embeddings->  
-- Predictive Analytics (Synthetic Data): <https://github.com/Kjkgfgdj/Predictive-Analytics-Machine-learning-with-Synthetic-Data>
-
 ---
 
 If you want me to tighten any bullets for impact (e.g., add metrics or scale), or generate the starter Python scripts for the synthetic‑data project to exactly match the README, say the word and I’ll drop them in.
