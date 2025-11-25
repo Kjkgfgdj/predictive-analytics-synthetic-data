@@ -129,9 +129,6 @@ You can add YAML/JSON config files for experiments (e.g., `configs/classificatio
 
 MIT — feel free to use and adapt.
 
-##  Acknowledgements
-
-Built with the Python data/ML stack: `pandas`, `NumPy`, `scikit-learn`, `matplotlib`, `imbalanced-learn`.
 
 ```
 
